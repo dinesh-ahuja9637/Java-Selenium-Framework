@@ -1,4 +1,4 @@
-# Java-Selenium-Framework
+# Selenium Test Automation Framework:
 Java-Selenium-Framework
 
 This is a sample Test Framework which is designed to test the Web-based (SaaS) application using below technology stack.
