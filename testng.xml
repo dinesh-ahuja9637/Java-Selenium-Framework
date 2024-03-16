@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="./src/test/java/com/org_name/tests">
+        <classes>
+                <class name="com.org_name.tests.TestHomePage">
+                    <methods>
+                        <include name="testHomePage"/>
+                    </methods>
+                </class>
+                <class name="com.org_name.tests.TestRequestDocumentPage">
+                    <methods>
+                        <include name="testRequestDocumentPae"/>
+                    </methods>
+                </class>
+            </classes>
+
+    </test>
+</suite>
